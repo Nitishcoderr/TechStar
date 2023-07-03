@@ -1,0 +1,5 @@
+npm i react-router-dom react-icons sass
+npm i react-router-hash-link
+npm i react-responsive-carousel
+
+
